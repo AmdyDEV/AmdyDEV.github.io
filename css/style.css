@@ -748,6 +748,12 @@ h3.my-profession
    {
     padding-left: 0;
    }
+    /* kelk modificcation */
+    .main-content .btn
+    {
+      margin-bottom: 70px;
+    }
+ /* fin modification */
    .about .about-content .personal-info .info-item p span
    {
     display: block;
@@ -769,10 +775,10 @@ h3.my-profession
     flex: 0 0 100%;
     max-width: 100%;
   }  
-  .home .home-img 
+  /* .home .home-img 
   {
     display: none;
-  } 
+  }  */
 }
 @media (max-width:767px)
 {
