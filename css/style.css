@@ -779,6 +779,10 @@ h3.my-profession
   {
     display: none;
   }  */
+  .home .home-img::after
+  {
+   right: -150px;
+  }
 }
 @media (max-width:767px)
 {
